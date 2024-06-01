@@ -1,6 +1,6 @@
 var rn=0;
 
-var timer=6;
+var timer=60;
 var scoree=0;
 
 function makeBubble(){
